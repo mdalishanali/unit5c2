@@ -1,0 +1,213 @@
+{
+  "houses": [
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 1
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 2
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 3
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 4
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 5
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 6
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 7
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 8
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 9
+    },
+    {
+      "name": "afda",
+      "ownerName": "afd",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adfa",
+      "bachelor": true,
+      "married": false,
+      "image": "adf",
+      "id": 10
+    },
+    {
+      "name": "adf",
+      "ownerName": "ad",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": false,
+      "married": false,
+      "image": "afd",
+      "id": 11
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": false,
+      "image": "adfa",
+      "id": 12
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": false,
+      "image": "adfa",
+      "id": 13
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 14
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 15
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 16
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 17
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 18
+    },
+    {
+      "name": "adfadf",
+      "ownerName": "adf",
+      "address": "adf",
+      "areaCode": "adf",
+      "rent": "adf",
+      "bachelor": true,
+      "married": true,
+      "image": "adfa",
+      "id": 19
+    }
+  ]
+}
