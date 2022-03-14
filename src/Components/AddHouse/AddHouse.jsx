@@ -10,6 +10,7 @@ const initState = {
   married: false,
   image: "",
 };
+
 export const AddHouse = () => {
   const [data, setData] = useState(initState);
   const [td, setTd] = useState([]);

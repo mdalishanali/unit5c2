@@ -2,7 +2,7 @@ import "./Rentals.css";
 import { useState, useEffect } from "react";
 import { AddHouse } from "../AddHouse/AddHouse";
 import axios from "axios";
-
+export const handle = () => {};
 export const Rentals = () => {
   const [td, setTd] = useState([]);
   useEffect(() => {
